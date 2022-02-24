@@ -11,8 +11,7 @@ Most of my code relies on my company's git server, so that just doesn't get sync
 
 - 📸 I also love to take photos. I created a photography club during my college years, and that club still remains intact 😃
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henryseongwookha)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henry_pic_u)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henryseongwookha) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henry_pic_u)
 <!--
 **henrysha/henrysha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
