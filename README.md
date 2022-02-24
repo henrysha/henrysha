@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Naver Shopping Search Services, and some vertical services in Shopping Domain @ [Naver](https://navercorp.com/)
+- ✍️ I'm also helping out [Dancers Connect](https://github.com/dancersconnect) on building their first product based on [Next.js](https://nextjs.org/)
+
+I love creating services that impact people's lives.
+
+Though my personal profile's contribution graph is a bit scarce, that does not necessarily mean that I don't code....
+Most of my code relies on my company's git server, so that just doesn't get synced with my personal one. 😭
+
+- 📸 I also love to take photos. I created a photography club during my college years, and that club still remains intact 😃
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henryseongwookha)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henry_pic_u)
 <!--
 **henrysha/henrysha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
