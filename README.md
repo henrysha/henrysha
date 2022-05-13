@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Naver Shopping Search Services, and some vertical services in Shopping Domain @ [Naver](https://navercorp.com/)
 - ✍️ I'm also helping out [Dancers Connect](https://github.com/dancersconnect) on building their first product based on [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 )](https://nextjs.org/)
+- 🧑‍🏫 I'm also working on online lecture on [![React.js](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.com) for [Zerobase FE School](https://zero-base.co.kr/category_dev_camp/school_FE)
 
 I love creating services that impact people's lives.
 
