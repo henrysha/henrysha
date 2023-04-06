@@ -13,7 +13,7 @@ Most of my code relies on my company's git server, so that just doesn't get sync
 - 📸 I also love to take photos. I created a photography club during my college years, and that club still remains intact 😃
 - ☕ Coffee is where my enthusiasm lies these days. I got a full set of coffee bar setup at my home 😃 Visit me and I'll make you one delicious cup of specialty coffee
 
-[![blog](https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=github&logoColor=white)](https://henrysha.github.io)
+<!--[![blog](https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=github&logoColor=white)](https://henrysha.github.io)-->
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henryseongwookha) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henry_pic_u) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/henrysha) [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
