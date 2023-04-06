@@ -11,6 +11,7 @@ Though my personal profile's contribution graph is a bit scarce, that does not n
 Most of my code relies on my company's git server, so that just doesn't get synced with my personal one. 😭
 
 - 📸 I also love to take photos. I created a photography club during my college years, and that club still remains intact 😃
+- ☕ Coffee is where my enthusiasm lies these days. I got a full set of coffee bar setup at my home 😃 Visit me and I'll make you one delicious cup of specialty coffee
 
 [![blog](https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=github&logoColor=white)](https://henrysha.github.io)
 
